@@ -11,3 +11,6 @@ v-for="var in array"
 
 v-for"(var, index) in array"
 
+splice // method remove item from array
+
+@click.stop // prevent click
